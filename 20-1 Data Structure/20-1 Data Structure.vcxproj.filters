@@ -42,5 +42,11 @@
     <ClCompile Include="2018311794_HW2C.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2018311794_HW3B.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2018311794_HW3A.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
